@@ -64,7 +64,7 @@ Engineered a full-featured command-line interpreter in **C** with advanced proce
 
 Modular Python-based security framework for penetration testing and network defense.
 
-- 🔐 Implements **reverse shells**, **port scanners**, and **network sniffers**
+- 🔐 Implements **reverse shells**, **metadata EXIF extraction**, and **cryptography**
 - 🔒 AES-128 encryption for secure communications
 - 🌐 Socket programming with multithreading support
 
