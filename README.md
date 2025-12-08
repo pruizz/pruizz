@@ -125,3 +125,7 @@ I'm particularly interested in roles involving **backend development**, **system
 **💼 Available for Summer 2026 Internships | 🌍 Based in Madrid, Spain | 🚀 Always Learning**
 
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pruizz/pruizz/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
