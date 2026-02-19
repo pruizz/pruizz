@@ -30,7 +30,7 @@
   <br/>
 
   <p><strong>Frameworks & Web</strong></p>
-  <img src="https://skillicons.dev/icons?i=spring,angular,nodejs,express,bootstrap" alt="Spring Angular Node.js" />
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,nodejs,express,bootstrap,vite" alt="Spring Angular Node.js" />
 
   <br/>
 
