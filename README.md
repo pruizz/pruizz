@@ -1,7 +1,7 @@
 <div align="center">
  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Pablo;Passionate+Software+Enginee[...]  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Pablo;Passionate+Software+Engineer" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -93,10 +93,10 @@ Feature-rich web platform built with a modern, scalable architecture and enterpr
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pruizz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d[...]  
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pruizz&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Stre[...]  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pruizz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=pruizz&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruizz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&langs_[...]  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruizz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
