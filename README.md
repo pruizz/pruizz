@@ -1,7 +1,7 @@
 <div align="center">
  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Pablo;Passionate+Software+Engineer;Open+To+Learning+Every+Day;Building+Scalable+Solutions" alt="Software Engineer Pablo Ruiz Uroz" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Pablo;Passionate+Software+Enginee[...]  
   </a>
 
   <p align="center">
@@ -72,16 +72,18 @@ Modular Python-based security framework for penetration testing and network defe
 
 ---
 
-### ☁️ Enterprise Cloud Application
-**Full-Stack Microservices Platform | Cloud Architecture**
+### 🌐 DSGram
+**Full-Stack Web Application | Java Spring Boot · React · MySQL · Docker · REST API**
 
-Scalable cloud-native architecture deployed with **Docker**.
+Feature-rich web platform built with a modern, scalable architecture and enterprise-grade security.
 
-- 🏗️ **Spring Boot** backend & **Angular** frontend with **TypeScript**
-- 💾 Relational database architecture using **MySQL** (SQL)
-- 🐳 Containerized services for seamless deployment
+- 🏗️ **Core Backend & Data:** Built a robust web application using **Spring Boot** and **MySQL**, ensuring efficient data persistence and business logic implementation
+- ⚛️ **Modern Frontend with React:** Developed a high-performance **Single Page Application (SPA)** using **React**, leveraging RESTful APIs for seamless frontend-backend communication
+- 🔐 **Advanced Security:** Integrated **Spring Security** with **OAuth2** and **OpenID Connect (OIDC)** protocols for secure authentication and third-party login
+- 🛡️ **Identity & Access Management:** Engineered a granular **Role-Based Access Control (RBAC)** system to manage permissions for anonymous, registered, and admin users
+- 🐳 **DevOps & Deployment:** Utilized **Docker** for containerization and orchestrated remote deployment, ensuring consistency across development and production environments
 
-`Java` `Spring Boot` `Angular` `TypeScript` `Docker` `MySQL`
+`Java` `Spring Boot` `React` `MySQL` `Docker` `REST API` `OAuth2` `OIDC` `RBAC` `Spring Security`
 
 </div>
 
@@ -91,10 +93,10 @@ Scalable cloud-native architecture deployed with **Docker**.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pruizz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Pablo's GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pruizz&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pruizz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d[...]  
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pruizz&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Stre[...]  
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruizz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruizz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&langs_[...]  
 
 </div>
 
